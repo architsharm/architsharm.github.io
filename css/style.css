@@ -240,7 +240,7 @@ nav ul li a {
 /*-----------------------------------------------------------------------------------*/
 
 #header {
-  background: url("../images/home-bg2.JPG") repeat scroll center center / cover;
+  background: url("../images/home-bg.jpg") repeat scroll center center / cover;
   height: 100vh;
   width: 100%;
 }
@@ -256,18 +256,18 @@ nav ul li a {
 }
 
 .header-content h1 {
-  font-size: 50px;
+  font-size: 2.75vw;
   font-weight: 700;
-  margin-bottom: 10px;
+  margin-bottom: 0.75vh;
   text-transform: uppercase;
   color: #000;
 }
 
 .header-content p {
-  font-size: 15px;
-  letter-spacing: 5px;
+  font-size: 1.5vw;
+ /* letter-spacing: 0.275vw;*/
   margin-top: 0;
-  margin-bottom: 30px;
+  margin-bottom: 1.0vh;
   text-transform: capitalize;
   color: #000;
   font-weight: 500;
@@ -275,12 +275,12 @@ nav ul li a {
 
 .header-content .list-social li {
   float: left;
-  margin-right: 20px;
+  margin-right: 1.1vw;
 }
 
 .header-content .list-social li i {
   color: #000;
-  font-size: 40px;
+  font-size: 2.2vw;
 }
 
 /*-----------------------------------------------------------------------------------*/
